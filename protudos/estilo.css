@@ -1,0 +1,17 @@
+div{
+  font-size: 10px;
+  font-family: arial;
+  padding: 4px;
+  border-radius: 50px;
+  background-color: rgb(233, 226, 226);
+  width:100px;
+  text-align: center;
+  margin-top: 10px;
+    
+}
+li{
+    font-size: 25px;
+}
+li ::before{
+  
+}
